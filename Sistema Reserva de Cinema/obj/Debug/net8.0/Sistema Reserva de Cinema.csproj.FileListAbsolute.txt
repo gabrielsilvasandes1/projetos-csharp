@@ -1,0 +1,14 @@
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\bin\Debug\net8.0\Sistema Reserva de Cinema.exe
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\bin\Debug\net8.0\Sistema Reserva de Cinema.deps.json
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\bin\Debug\net8.0\Sistema Reserva de Cinema.runtimeconfig.json
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\bin\Debug\net8.0\Sistema Reserva de Cinema.dll
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\bin\Debug\net8.0\Sistema Reserva de Cinema.pdb
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.AssemblyInfoInputs.cache
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.AssemblyInfo.cs
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.csproj.CoreCompileInputs.cache
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.dll
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\refint\Sistema Reserva de Cinema.dll
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.pdb
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\Sistema Reserva de Cinema.genruntimeconfig.cache
+D:\Biel\estudos\C#\Sistema Reserva de Cinema\obj\Debug\net8.0\ref\Sistema Reserva de Cinema.dll
