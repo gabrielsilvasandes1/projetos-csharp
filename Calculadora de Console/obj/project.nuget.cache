@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a4Y9zAnafR8=",
+  "dgSpecHash": "834ANje8uTc=",
   "success": true,
-  "projectFilePath": "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\Sistema Reserva de Cinema.csproj",
+  "projectFilePath": "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\Calculadora de Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Computador\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
     "C:\\Users\\Computador\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",

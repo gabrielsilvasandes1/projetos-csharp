@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\Sistema Reserva de Cinema.csproj": {}
+    "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\Calculadora de Console.csproj": {}
   },
   "projects": {
-    "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\Sistema Reserva de Cinema.csproj": {
+    "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\Calculadora de Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\Sistema Reserva de Cinema.csproj",
-        "projectName": "Sistema Reserva de Cinema",
-        "projectPath": "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\Sistema Reserva de Cinema.csproj",
+        "projectUniqueName": "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\Calculadora de Console.csproj",
+        "projectName": "Calculadora de Console",
+        "projectPath": "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\Calculadora de Console.csproj",
         "packagesPath": "C:\\Users\\Computador\\.nuget\\packages\\",
-        "outputPath": "D:\\Biel\\estudos\\projetos-csharp\\Sistema Reserva de Cinema\\obj\\",
+        "outputPath": "D:\\Biel\\estudos\\projetos-csharp\\Calculadora de Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

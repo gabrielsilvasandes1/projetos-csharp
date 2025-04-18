@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Sistema Reserva de Cinema")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora de Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1c5faa09fba2f767ce425b767dca97e886f55db")]
-[assembly: System.Reflection.AssemblyProductAttribute("Sistema Reserva de Cinema")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Sistema Reserva de Cinema")]
+[assembly: System.Reflection.AssemblyProductAttribute("Calculadora de Console")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Calculadora de Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

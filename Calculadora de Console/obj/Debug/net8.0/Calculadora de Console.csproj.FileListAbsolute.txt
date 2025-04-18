@@ -1,0 +1,15 @@
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\bin\Debug\net8.0\Calculadora de Console.exe
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\bin\Debug\net8.0\Calculadora de Console.deps.json
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\bin\Debug\net8.0\Calculadora de Console.runtimeconfig.json
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\bin\Debug\net8.0\Calculadora de Console.dll
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\bin\Debug\net8.0\Calculadora de Console.pdb
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.AssemblyInfoInputs.cache
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.AssemblyInfo.cs
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.csproj.CoreCompileInputs.cache
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.sourcelink.json
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.dll
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\refint\Calculadora de Console.dll
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.pdb
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\Calculadora de Console.genruntimeconfig.cache
+D:\Biel\estudos\projetos-csharp\Calculadora de Console\obj\Debug\net8.0\ref\Calculadora de Console.dll
