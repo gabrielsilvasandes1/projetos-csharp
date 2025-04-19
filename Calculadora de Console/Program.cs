@@ -3,32 +3,53 @@ using static System.Console;
 
 class Program {
     static void Main() {
-        Write("Digite o primeiro número: ");
+       while (true) {
+         Write("Digite o primeiro número: ");
         int numberOne = int.Parse(ReadLine());
         Write("Digite o segundo número: ");
         int numberTwo = int.Parse(ReadLine());
-        int i = 0;
-        int UserOption = int.Parse(ReadLine());
-        do {
-            if (UserOption == 5) {
-            i = 5;
-        }
-            Write(@"
+        Write(@"
 [1] Somar
 [2] Multiplicar
 [3] Subtrair
 [4] Dividir
 [5] Sair
 Sua opção: ");
-        } while (i != 5);
-        if (UserOption == 1) {
-            int result = numberOne + numberTwo; 
-            WriteLine($"{numberOne} + {numberTwo} = {result}");
-        }
 
-        else if (UserOption == 5) {
-            i = 5;
-        }
+        int UserOption = int.Parse(ReadLine());
 
+        switch (UserOption) {
+            case 1:
+                WriteLine($"{numberOne} + {numberTwo} = {numberOne+numberTwo}");
+                break;
+            case 2:
+                WriteLine($"{numberOne} x {numberTwo} = {numberOne*numberTwo}");
+                break;
+            case 3:
+                WriteLine($"{numberOne} - {numberTwo} = {numberOne-numberTwo}");
+                break;
+            case 4:
+                double resultado = (double) numberOne / numberTwo;
+                WriteLine($"{numberOne} ÷ {numberTwo} = {resultado.ToString("F2")}");
+                break;
+            case 5:
+                WriteLine("Programa encerrado com sucesso.");
+                return;
+            default:
+                WriteLine("Opção inválida. Tente Novamente!");
+                continue;
+        }
+            if (UserOption >= 1 && UserOption <= 5) {
+                Write("Deseja continuar? [S/N]: ");
+                string UserContinue = ReadLine();
+                if (UserContinue.ToUpper() == "S") {
+                    continue;
+                }
+                else {
+                    WriteLine("Programa encerrado com sucesso.");
+                    break;
+                }
+            }
+       }
     }
 }
